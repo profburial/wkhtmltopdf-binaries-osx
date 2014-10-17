@@ -1,0 +1,19 @@
+{
+    "name": "profburial/wkhtmltopdf-binaries-osx",
+    "description": "All the wkhtmltopdf binaries for OSX.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://github.com/profburial/wkhtmltopdf-binaries-osx",
+    "authors": [
+        {
+            "name": "Terry Harmon",
+            "email": "terry@polymorphdev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage-amd64-osx",
+        "bin/wkhtmltopdf-amd64-osx",
+    ],
+    "require": {}
+}
