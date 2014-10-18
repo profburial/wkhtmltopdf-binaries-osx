@@ -13,7 +13,7 @@
     "minimum-stability": "stable",
     "bin": [
         "bin/wkhtmltoimage-amd64-osx",
-        "bin/wkhtmltopdf-amd64-osx",
+        "bin/wkhtmltopdf-amd64-osx"
     ],
     "require": {}
 }
