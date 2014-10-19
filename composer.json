@@ -1,7 +1,7 @@
 {
     "name": "profburial/wkhtmltopdf-binaries-osx",
     "description": "All the wkhtmltopdf binaries for OSX.",
-    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "keywords": ["pdf", "wkhtmltopdf", "binary"],
     "license": "LGPL Version 3",
     "homepage": "https://github.com/profburial/wkhtmltopdf-binaries-osx",
     "authors": [
