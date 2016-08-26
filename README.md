@@ -1,4 +1,4 @@
-# wkhtmltopdf for OSX 0.12.1 qtwebkit
+# wkhtmltopdf for OSX 0.12.3 qtwebkit
 
 [All the binaries for OSX from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries-osx": "0.12.1"
+            "profburial/wkhtmltopdf-binaries-osx": "0.12.3"
         }
     }
     ```

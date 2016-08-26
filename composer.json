@@ -1,9 +1,9 @@
 {
     "name": "profburial/wkhtmltopdf-binaries-osx",
     "description": "All the wkhtmltopdf binaries for OSX.",
-    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
     "license": "LGPL Version 3",
-    "homepage": "https://github.com/profburial/wkhtmltopdf-binaries-osx",
+    "homepage": "http://wkhtmltopdf.org/",
     "authors": [
         {
             "name": "Terry Harmon",
